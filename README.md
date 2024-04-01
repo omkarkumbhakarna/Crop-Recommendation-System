@@ -1,3 +1,14 @@
+Crop Recommendation System
+
+A Crop Recommendation System powered by Machine Learning assists farmers in selecting optimal crops based on soil quality, climate, and past performance. By analyzing data on these factors, the system generates personalized recommendations, improving crop yield and sustainability. Integration with IoT devices enhances real-time data collection for precise decision-making, ultimately benefitting agricultural productivity.
+
+
+
+
+
+
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
